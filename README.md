@@ -31,15 +31,9 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavithra2203star&show_icons=true&theme=radical" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra2203star&theme=radical" />
-</p>
 
----
+
 
 
 ### 🌐 Connect with Me
