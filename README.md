@@ -27,7 +27,8 @@
 ### 📌 Projects
 - 📄 Resume Parsing  
 - 🎉 Event Page  
-- 🧮 Web Calculator  
+- 🧮 Web Calculator
+- conference ticket generator 
 
 ---
 
