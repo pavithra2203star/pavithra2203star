@@ -41,13 +41,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pavithra2203star/pavithra2203star/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 <p align="center">
